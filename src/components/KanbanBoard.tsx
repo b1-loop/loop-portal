@@ -16,6 +16,7 @@ interface Candidate {
   created_at: string
 }
 
+// FIX: Tog bort 'role' härifrån
 interface Props {
   job: any
   goBack: () => void
