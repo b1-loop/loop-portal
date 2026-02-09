@@ -114,4 +114,4 @@ export default function Dashboard({ role, session, lang, navigate }: DashboardPr
       </main>
     </div>
   )
-}
+}  
